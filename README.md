@@ -7,8 +7,7 @@ Este é um jogo de console chamado "Jogo do 21" em Python. O jogo gera um númer
 
 ## 🎮 Como Jogar
 
-Baixe o arquivo compactado em seus computador. Não é necessário descompactar para jogá-lo.
-Dê um duplo clique no arquivo executável "jogo_21" e ele iniciará sozinho.
+Dentro da pasta "dist", localize o executável "JOGO_21", de um duplo clique e ele iniciará sozinho.
 Siga as instruções e pronto! Divirta-se!"
 
 ## 📁 Dependências
