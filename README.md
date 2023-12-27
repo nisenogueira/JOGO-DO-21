@@ -5,14 +5,15 @@ ___
 
 Este é um jogo de console chamado "Jogo do 21" em Python. O jogo gera um número aleatório entre 1 e 10, para o jogador, e a cada rodada, esse número é acumulado. O objetivo é somar 21 pontos.
 
+## 📁 Dependências
+
+Baixe a pasta completa. Os arquivos devem permanecer todos na mesma pasta para que o executável funcione perfeitamente.
+
 ## 🎮 Como Jogar
 
 Dentro da pasta "dist", localize o executável "JOGO_21", de um duplo clique e ele iniciará sozinho.
 Siga as instruções e pronto! Divirta-se!"
 
-## 📁 Dependências
-
-Os arquivos devem permanecer todos na mesma pasta para que o executável funcione perfeitamente.
 
 ## ✔️ Tecnologias utilizadas
 
