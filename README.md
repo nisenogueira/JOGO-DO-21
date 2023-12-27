@@ -29,5 +29,5 @@ Siga as instruções e pronto! Divirta-se!"
 
 ## Créditos
 
-Jogo criado e modificado a partir do script original ([21_GAME]([https://github.com/nisenogueira/JOGO-21/blob/master/21_GAME.py](https://github.com/nisenogueira/JOGO-DO-21/blob/main/JOGO/dist/21_GAME.py)https://github.com/nisenogueira/JOGO-DO-21/blob/main/JOGO/dist/21_GAME.py))
+Jogo criado e modificado a partir do script original ([21_GAME](https://github.com/nisenogueira/JOGO-DO-21/blob/main/JOGO/dist/21_GAME.py))
 
