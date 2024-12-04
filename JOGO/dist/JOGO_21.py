@@ -44,7 +44,7 @@ def jogo_21():
         print("Você perdeu!. Mais sorte na próxima =P")
         sleep(10)
     else:
-        print(f"Você parou com uma pontuação abaixo de 21.")
+        print(f"Você parou com uma pontuação abaixo de 21. Fim de jogo!")
         sleep(10)
 #chamada da funcão para que o código (o jogo) inicie
 jogo_21()
